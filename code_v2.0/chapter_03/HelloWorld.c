@@ -4,5 +4,6 @@
 void HelloWorld(void){
 printf("Hello World\n");
 printf("Hello HM");
+printf("test upload")
 }
 SYS_RUN(HelloWorld);
