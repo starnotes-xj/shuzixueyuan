@@ -1,0 +1,12 @@
+/base/
+/build/
+/docs/
+/domains/
+/drivers/
+/foundation/
+/kernel/
+/prebuilts/
+/test/
+/third_party/
+/utils/
+/vendor/
