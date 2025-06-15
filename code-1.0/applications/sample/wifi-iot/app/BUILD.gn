@@ -15,13 +15,7 @@ import("//build/lite/config/component/lite_component.gni")
 
 lite_component("app") {
     features = [
-        "startup",
-    ]
-}
-import("//build/lite/config/component/lite_component.gni")
-
-lite_component("app") {
-    features = [
-        "code_v2.0/chapter_04:traffic_demo",
+#        "startup",
+        "code_v2.0/chapter_04:traffic_light_Demo",
     ]
 }
