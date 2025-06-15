@@ -1,7 +1,7 @@
 static_library("traffic_light_Demo") {
     sources = [
 #        "traffic_light_demo.c"
-        task_demo.c
+        "task_demo.c"
     ]
 
     include_dirs = [
